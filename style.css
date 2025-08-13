@@ -4,7 +4,7 @@
 }
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: black;
+    
   
 }
 .header{
@@ -647,4 +647,5 @@ body{
     justify-content: space-around;
     gap: 30px;
 }
+
 
